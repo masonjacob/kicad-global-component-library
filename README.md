@@ -1,0 +1,1 @@
+# kicad-global-component-library
